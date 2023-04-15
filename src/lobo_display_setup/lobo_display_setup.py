@@ -2,7 +2,7 @@
 import sys
 
 from machine import Pin, SPI, I2C
-from ..lobo_rig.rig import *
+from lobo_rig.rig import *
 
 
 class Device:
