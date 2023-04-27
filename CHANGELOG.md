@@ -2,6 +2,9 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.1 (2023-04-27)
+
+
 ## v0.2.0 (2023-04-15)
 ### Feature
 * **init:** Copying source ([`9ba7a83`](https://github.com/lukasz-lobocki/lobo_display_setup/commit/9ba7a83a022db0d259bc85554b171632f15314fc))
